@@ -24,7 +24,9 @@ public class CSVUtils{
         createStudents(data);
     }
 
-    public ArrayList<Student> getStudents(){ return students; }
+    public ArrayList<Student> getStudents(){ 
+        return students;
+    }
 
     private void createStudents(List<String[]> data){
         for(int i = 3; i < data.size(); i++){
