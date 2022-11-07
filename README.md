@@ -1,4 +1,4 @@
-Получение токена
+                                                Получение токена
 
   1.Инструкция https://dev.vk.com/api/access-token/implicit-flow-user
 
